@@ -1,0 +1,24 @@
+.Heading{
+  background-color: black;
+  color:white;
+  padding: 25px;
+  text-align: center;
+}
+
+body{
+  margin:0;
+  margin-top: 0;
+  background-color: gray;
+}
+
+.rd{
+  font-size: 22px;
+
+}
+
+.Projects{
+  text-align: center;
+}
+.final{
+  font-size:18px;
+}
